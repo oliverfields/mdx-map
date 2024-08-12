@@ -2,7 +2,7 @@
 
 Markdown extension for annotating interactive Leaflet/OpenStreetmap maps.
 
-# Example
+## Example
 
 This Markdown..
 
@@ -49,7 +49,7 @@ Results in..
 ![Example map](example.png)
 
 
-## Example code
+## Extending markdown
 
 ```python
 import markdown
